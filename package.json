@@ -3,6 +3,7 @@
   "version": "1.8.0",
   "description": "Material Kit React. Coded by Creative Tim",
   "private": true,
+  "homepage": "http://isole01.github.io/classroom-front",
   "main": "dist/index.js",
   "dependencies": {
     "@apollo/client": "^3.0.2",
@@ -50,6 +51,8 @@
     "build": "react-scripts build && gulp licenses",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "lint:check": "eslint . --ext=js,jsx;  exit 0",
     "lint:fix": "eslint . --ext=js,jsx --fix;  exit 0",
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
