@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/classroom-front/static/css/main.a49495ea.chunk.css",
+    "main.js": "/classroom-front/static/js/main.e7cd26e9.chunk.js",
+    "main.js.map": "/classroom-front/static/js/main.e7cd26e9.chunk.js.map",
+    "runtime~main.js": "/classroom-front/static/js/runtime~main.4c677459.js",
+    "runtime~main.js.map": "/classroom-front/static/js/runtime~main.4c677459.js.map",
+    "static/js/2.1910f18a.chunk.js": "/classroom-front/static/js/2.1910f18a.chunk.js",
+    "static/js/2.1910f18a.chunk.js.map": "/classroom-front/static/js/2.1910f18a.chunk.js.map",
+    "index.html": "/classroom-front/index.html",
+    "precache-manifest.bc9f503088eaf90f835109cc5e168076.js": "/classroom-front/precache-manifest.bc9f503088eaf90f835109cc5e168076.js",
+    "service-worker.js": "/classroom-front/service-worker.js",
+    "static/css/main.a49495ea.chunk.css.map": "/classroom-front/static/css/main.a49495ea.chunk.css.map",
+    "static/media/bg7.jpg": "/classroom-front/static/media/bg7.b08234a2.jpg",
+    "static/media/sidebar-2.jpg": "/classroom-front/static/media/sidebar-2.d30c9e30.jpg"
+  }
+}
